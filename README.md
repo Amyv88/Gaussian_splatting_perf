@@ -2,6 +2,8 @@
 
 Posed body of 3D Gaussians, a pose- and view-conditioned denoiser, and a tiled rasterizer checked against a PyTorch reference.
 
+![Study flow](gaussian_study_flow.png)
+
 ## Layout
 
 - `humangs_profile/body.py` — skeleton and learnable appearance
